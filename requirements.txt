@@ -1,0 +1,33 @@
+# Core Deep Learning Frameworks
+torch>=2.0.0
+tensorflow>=2.10.0
+
+# Scientific Computing
+numpy>=1.21.0
+
+# Audio Processing
+librosa>=0.9.0
+torchaudio>=2.0.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Experiment Tracking
+wandb>=0.13.0
+
+# Data Downloading
+pooch>=1.6.0
+
+# Model Loading
+joblib>=1.2.0
+
+# Environment Variables (optional but recommended)
+python-dotenv>=0.21.0
+
+# Jupyter Notebook Support (for notebooks in the project)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
